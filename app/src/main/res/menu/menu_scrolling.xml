@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.zur10part2.ScrollingActivity">
+    <item
+        android:id="@+id/actionThilim"
+        android:title="תהילים" />
+   <item
+        android:id="@+id/actionBerashit"
+        android:title="בראשית" />
+
+    <item
+        android:id="@+id/actionShemot"
+        android:title="שמות" />
+    <item
+        android:id="@+id/actionVaikra"
+        android:title="ויקרא" />
+    <item
+        android:id="@+id/actionDevario"
+        android:title="דברים" />
+    <item
+        android:id="@+id/actionBamidbar"
+        android:title="במדבר"
+        />
+
+</menu>
